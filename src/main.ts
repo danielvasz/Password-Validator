@@ -1,6 +1,6 @@
 import { bootstrapApplication } from '@angular/platform-browser';
 import { appConfig } from './app/app.config';
-import { AppComponent } from './app/app.component';
+import { PasswordValidatorComponent } from './app/features/password-validator/password-validator.component';
 
-bootstrapApplication(AppComponent, appConfig)
+bootstrapApplication(PasswordValidatorComponent, appConfig)
   .catch((err) => console.error(err));
