@@ -4,8 +4,8 @@ Este repositorio contiene un proyecto de Angular que implementa un sistema robus
 
 El objetivo es proporcionar feedback instantáneo al usuario, guiándolo a través de los requisitos de seguridad.
 
-![alt text](image.png)
+![alt text](/public/image.png)
 
-![alt text](image-1.png)
+![alt text](/public/image-1.png)
 
-![alt text](image-2.png)
+![alt text](/public/image-2.png)
